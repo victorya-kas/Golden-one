@@ -1,0 +1,13 @@
+.nav {
+    display: none;
+}
+
+@media (min-width: 960px) {
+    .nav {
+        display: block;
+    }
+
+    .nav-mobile {
+        display: none;
+    }
+}
